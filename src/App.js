@@ -69,7 +69,7 @@ function App() {
       <AppBar position="static">
         <Toolbar>
           <Typography variant="h6">
-            E-Commerce Store
+            Yash's E-Commerce Store
           </Typography>
         </Toolbar>
       </AppBar>
