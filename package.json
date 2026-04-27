@@ -1,8 +1,8 @@
 {
-  "name": "eco-pro",
+  "name": "manage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yashnalawade036.github.io/eco-pro",
+  "homepage": "https://yashn035.github.io/manage",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
